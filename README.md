@@ -12,6 +12,27 @@ Created ML model to predict whether the person has heart disease or not by using
 
 
 
+The Parameters Data Required for the Analysis: -
+
+Age.
+Sex: 1 = Male, 0 = Female.
+(cp) chest pain type (4 values – Ordinal), 1st value: typical angina, 2nd value: atypical angina, 3rd value: non-anginal pain, 4th value: asymptomatic.
+(trestbps) resting blood pressure.
+(chol) serum cholesterol.
+(Fbs) – fasting blood sugar > 120 mg/dl. 
+(restecg) – resting electrocardiography results.
+(thalach) – maximum heart rate achieved. 
+(exang) – exercise-induced angina.
+(oldpeak) – ST depression caused by exercise relative to rest.
+(slope) – the slope of the peak exercise ST segment.
+(ca) – the number of major vessels colored by fluoroscopy.
+(thal) – maximum heart rate achieved (Ordinal), 3 = normal, 6 = fixed defect, 7 = reversible defect.
+
+
+
+
+
+
 
 Importing Data from CSV File:- 
 ![Screenshot (178)](https://user-images.githubusercontent.com/121851937/217575780-5a95a372-f1fe-44d6-98e0-79ae2ab4c48e.png)
